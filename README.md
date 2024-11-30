@@ -15,12 +15,12 @@ Read how we did it [on our blog](https://yalantis.com/blog/how-we-used-micro-tra
 <img src="content_shot_to-do_dribbble.gif"/>
 
 ##Requirements
-- Android SDK 16+
+- Android SDK 17+
 
 ##Usage
 
 Add to your root build.gradle:
-```Groovy
+```Groovys
 allprojects {
 	repositories {
 	...
